@@ -15,7 +15,9 @@
 
 ### 🖥 Link
 
-https://dmu8og75yrjcf.cloudfront.net/
+~~https://dmu8og75yrjcf.cloudfront.net/~~
+
+`현 배포 주소는 운영 사정 상 내리게 되었습니다. 추후 재오픈하도록 노력하겠습니다.`
 
 ### 💾 Github Repository
 
